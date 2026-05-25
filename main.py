@@ -21,3 +21,6 @@ def baz():
     Prints out the text, "Hello world!"
     """
     print("Hello world!")
+print(foo("Hello", "Kaiser"))
+print(bar())
+baz()
